@@ -1,0 +1,19 @@
+ol, ul{
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: green;
+    color: aliceblue;
+    font-weight:700;
+}
+
+h1{
+    font-size:40px;
+    text-decoration:underline;
+    text-align:left;
+}
+
+img{
+    height:300px;
+    width:auto;
+}
